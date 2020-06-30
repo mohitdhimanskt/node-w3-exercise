@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohitdhimanskt/node-w3-exercise/issues"
   },
-  "homepage": "https://github.com/mohitdhimanskt/node-w3-exercise#readme"
+  "homepage": "https://github.com/mohitdhimanskt/node-w3-exercise#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
